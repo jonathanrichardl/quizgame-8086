@@ -19,57 +19,57 @@ s6 db 'Nama asli iron man : ', 13, 10 , 'a. Tony Moon',13, 10 , 'b. Tony Stark' 
 a6 db 62h
 
 s7 db 'Gudeg adalah makanan khas : ', 13, 10 , 'a. Yogyakarta',13, 10 , 'b. Semarang' ,13, 10 ,'c. Solo' , '$'
-a7 db 1h
+a7 db 61h
 s8 db 'Jembatan yang menghubungkan Surabaya dan Madura : ', 13, 10 , 'a. Suradura',13, 10 , 'b. Suramadu' ,13, 10 ,'c. Surabara' , '$'
-a8 db 2h
+a8 db 62h
 s9 db 'Asian Games terletak di kota : ', 13, 10 , 'a. Palembang',13, 10 , 'b. Bekasi' ,13, 10 ,'c. A dan B benar' , '$'
-a9 db 1h
+a9 db 61h
 s10 db 'Danau di Medan : ', 13, 10 , 'a. Tobu',13, 10 , 'b. Tobi' ,13, 10 ,'c. Toba' , '$'
-a10 db 3h
+a10 db 63h
 s11 db 'Pencipta lagu Indonesia Raya : ', 13, 10 , 'a. WR Sukirman',13, 10 , 'b. WR Soetejo' ,13, 10 ,'c. WR Soepratman' , '$'
-a11 db 3h
+a11 db 63h
 s12 db 'Kapan Indonesia merdeka : ', 13, 10 , 'a. 1945',13, 10 , 'b. 1946' ,13, 10 ,'c. 1947' , '$'
-a12 db 1h
+a12 db 61h
 
 
 s13 db 'Hewan yang terletak di air dan di darat : ', 13, 10 , 'a. reptil',13, 10 , 'b. amfibi' ,13, 10 ,'c. ovovivipar' , '$'
-a13 db 2h
+a13 db 62h
 s14 db 'Hewan yang menyusui : ', 13, 10 , 'a. Vivipar',13, 10 , 'b. Ovipar' ,13, 10 ,'c. Ovovivipar' , '$'
-a14 db 1h
+a14 db 61h
 s15 db 'Kelelawar berkomunikasi menggunakan : ', 13, 10 , 'a. penciuman',13, 10 , 'b. echolocation' ,13, 10 ,'c. penglihatan' , '$'
-a15 db 2h
+a15 db 62h
 s16 db 'Perubahan wujud dari padat menjadi gas : ', 13, 10 , 'a. Mengkristal',13, 10 , 'b. Menyublim' ,13, 10 ,'c. Menguap' , '$'
-a16 db 2h
+a16 db 62h
 s17 db 'Planet terpanas : ', 13, 10 , 'a. Matahari',13, 10 , 'b. Venus' ,13, 10 ,'c. Mars' , '$'
-a17 db 2h 
+a17 db 62h 
 s18 db 'Ekor putus cicak disebut : ', 13, 10 , 'a. Mimikri',13, 10 , 'b. Mikir' ,13, 10 ,'c. Menyublim' , '$'
-a18 db 1h
+a18 db 61h
 
 s19 db 'Orang pada uang 100 ribu rupiah (yang baru) : ', 13, 10 , 'a. Soekarno-Hatta',13, 10 , 'b. Pattimura' ,13, 10 ,'c. MH Thamrin-Djoeanda' , '$'
-a19 db 1h
+a19 db 61h
 s20 db 'Orang pada uang 100 dollar amerika : ', 13, 10 , 'a. George Bush',13, 10 , 'b. Jorj' ,13, 10 ,'c. George Washington' , '$'
-a20 db 3h
+a20 db 63h
 s21 db 'Orang pada Logo KFC : ', 13, 10 , 'a. Kolonel Harland',13, 10 , 'b. Kapten Tsubasa' ,13, 10 ,'c. Kapiten' , '$'
-a21 db 1h
+a21 db 61h
 s22 db 'Orang pada Logo NBA : ', 13, 10 , 'a. Jerry and Tom',13, 10 , 'b. Jerry West' ,13, 10 ,'c. Geri' , '$'
-a22 db 2h
+a22 db 62h
 s23 db 'Orang yang kita sayangi : ', 13, 10 , 'a. Orangtua',13, 10 , 'b. Orang lain' ,13, 10 ,'c. Orang orangan sawah' , '$'
-a23 db 1h
+a23 db 61h
 s24 db 'Pencipta microsoft : ', 13, 10 , 'a. Billboard',13, 10 , 'b. Billie' ,13, 10 ,'c. Bill Gates' , '$'
-a24 db 3h
+a24 db 63h
 
 s25 db 'Musuh nobita : ', 13, 10 , 'a. Giant',13, 10 , 'b. Titan' ,13, 10 ,'c. Big' , '$'
-a25 db 1h
+a25 db 61h
 s26 db 'Nama pemilik woody (toy story): ', 13, 10 , 'a. Andy',13, 10 , 'b. Brandy' ,13, 10 ,'c. Sandy' , '$'
-a26 db 1h
+a26 db 61h
 s27 db 'Nama restoran mr krab : ', 13, 10 , 'a. Chum Bucket',13, 10 , 'b. Bikini Bottom' ,13, 10 ,'c. Krusty Krab' , '$'
-a27 db 3h
+a27 db 63h
 s28 db 'Power Puff Girl warna merah : ', 13, 10 , 'a. Buttercup',13, 10 , 'b. Bubbles' ,13, 10 ,'c. Blossom' , '$'
-a28 db 3h
+a28 db 63h
 s29 db 'Nama pacarnya lightning mcqueen : ', 13, 10 , 'a. Sally',13, 10 , 'b. Gally' ,13, 10 ,'c. Belly' , '$'
-a29 db 1h
+a29 db 61h
 s30 db 'Nama bapaknya nemo : ', 13, 10 , 'a. Marlin',13, 10 , 'b. Martin' ,13, 10 ,'c. Marvin' , '$'
-a30 db 1h
+a30 db 61h
    
 soal db ? 
 player1 db 255 DUP('$')
